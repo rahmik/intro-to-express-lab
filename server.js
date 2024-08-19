@@ -8,7 +8,7 @@ const PORT = 3001
 // Define routes here:
 
 app.get('/', (req, res) => {
-  res.send('<h1>This is Junnats gambling app</h1>');
+  res.send('<h1>This is Rahmis gambling app</h1>');
 });
 
 app.get('/home', (req, res) => {
